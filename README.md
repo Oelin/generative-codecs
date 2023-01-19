@@ -1,7 +1,7 @@
-# Generative Codecs
+# Lucid
 
-Elucidating implicit generative models from text codecs such as LZMA.
-
+Elucidation of implicit generative models from common data compression
+algorithms.
 
 ## Introduction
 
