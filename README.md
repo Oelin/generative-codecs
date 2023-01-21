@@ -1,4 +1,4 @@
-# Lucid
+# Code Elucidation
 
 Elucidation of implicit generative models from common data compression
 algorithms.
