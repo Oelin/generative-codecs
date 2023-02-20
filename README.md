@@ -1,6 +1,6 @@
-# Implicit Generative Models
+# Implicit Language Models
 
-Elucidation of implicit generative models from common data compression
+Elucidation of implicit language models from common data compression
 algorithms.
 
 ## Introduction
