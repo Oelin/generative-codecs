@@ -1,4 +1,4 @@
-# Code Elucidation
+# Implicit Generative Models
 
 Elucidation of implicit generative models from common data compression
 algorithms.
